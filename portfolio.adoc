@@ -1,0 +1,56 @@
+= CV: Andreas Gajdosik
+//Disables the title page
+ifdef::backend-pdf[:notitle:]
+
+[discrete]
+= CV
+
+== Andreas Gajdosik
+
+June 1992. Born in Brno, Czech Republic.
+
+== Education
+
+- 2016-present: Brno University of Technology - Faculty of Fine Arts - Intermedia Studio - Pavel Sterec +
+- 2012-2016: Brno University of Technology - Faculty of Fine Arts - Multimedia Studio - Filip Turek, Slavo Krekovic +
+
+== Exhibitions
+* 2017
+** Do It Yourself, gallery Rampa, Faculty of Art and Design, Usti nad Labem
+** Take Away, MP7 Gallery, festival TRANSFORMA, Tabor
+* 2016
+** Rising Superstar Hotline, media event and performance as member of group Pavel Ondracka, Manifesta 11, Cabaret Voltaire, Zurich
+* 2014
+** Digital Subconsciousness, gallery Art, Brno
+** Waves, interactive installation, cafe Tro3jka, Brno
+
+== Group Exhibitions
+* 2017
+** The Last Word, Gallery In:Out, Bratislava
+* 2015
+** Exhibition of Painters, gallery of Milos Zeman, Faculty of Fine Arts, Brno
+** Intuition, Vasulka Chamber, National Gallery of Iceland
+* 2014
+** World Wide Waldeinsamkeit, gallery Oberwelt, Stuttgart
+** Hypertext, gallery Aula, Faculty of Fine Arts, Brno
+** Musical performance with group Pavel Ondracka, TRIAL 5, Moravian Gallery, Brno
+* 2013
+** Enterprise, gallery Aula, Faculty of Fine Arts, Brno
+
+<<<
+== Publications and public activity
+* 2017
+** Presentation with group Pavel Ondracka, conference What to do?, Academy of Fine Arts, Prague
+* 2015
+** Talk 'Magicariat', international conference Intuition, Faculty of Fine Arts, Brno
+
+
+== Other activities
+
+* 2016
+** Pavleni - series of student run lectures in Studio of Pavel Ondracka, organization of events
+* 2015
+** Connect - series of 3 workshops of creative programming, organization and teaching
+** Musical workshop of group Pavel Ondracka, Museums Night, Ceske Budejovice - teaching, design of DIY instruments 
+* 2013
+** Platform for Intervention of Electronic Media - organization
